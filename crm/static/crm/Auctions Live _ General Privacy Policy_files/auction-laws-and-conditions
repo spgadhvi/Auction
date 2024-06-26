@@ -1,0 +1,1535 @@
+
+
+
+ 
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+    
+<head>
+    <!-- Google Tag Manager -->
+<script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+			'gtm.start': new Date().getTime(),
+			event: 'gtm.js'
+		});
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s),
+			dl = l != 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, 'script', 'dataLayer', 'GTM-MNQHMV8');
+</script> <!-- End Google Tag Manager -->
+    
+    <title>Auctions | NSW Fair Trading</title>
+
+<!-- Misc Metadata -->
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<!-- Global Default Metadata -->
+<meta name="dcterms.title"      content="Auctions">
+<meta name="dcterms.description" content="The laws and conditions that cover the auction process.">
+<meta name="dcterms.creator"    content="NSW Fair Trading">
+<meta name="dcterms.created"    content="2018-06-15T16:41:21+10:00">
+<meta name="dcterms.modified"   content="2023-04-17T13:32:47+10:00">
+<meta name="dcterms.issued"     content="2022-10-07T16:09:57+11:00">
+<meta name="dcterms.format"     content="HTML">
+<meta name="dcterms.identifier" content="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/auction-laws-and-conditions">
+
+<!-- Custom Metadata -->
+
+<!-- Global Metadata //-->
+
+<!-- SEO //-->
+<meta name="description" content="The laws and conditions that cover the auction process." />
+<meta name="keywords" content="" />
+<meta name="robots" content="" />
+<meta name="description.short" content="" />
+
+<!-- Page Category //-->
+<meta name="search.category" content="Housing &amp; Property" />
+
+<!-- Page Type //-->
+<meta name="search.type" content="" />
+
+<!-- AGLS Content //-->
+<meta name="DCTERMS.title" content="Auctions" />
+<meta name="DCTERMS.subject" content="" />
+<meta name="DCTERMS.type" content="Web Content" />
+<meta name="DCTERMS.creator" content="NSW Fair Trading" />
+<meta name="DCTERMS.publisher" content="NSW Fair Trading" />
+<meta name="DCTERMS.audience" content="" />
+<meta name="DCTERMS.rights" content="Copyright Fair Trading NSW" />
+<meta name="DCTERMS.identifier" content="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/auction-laws-and-conditions" />
+<meta name="DCTERMS.language" content="English" />
+<meta name="DCTERMS.format" content=" Standard Page" />
+<meta name="DCTERMS.coverage" content="New South Wales, Australia" />
+<meta name="DCTERMS.news.date" content="2022-10-07 16:09:57" />
+
+<!-- Global Custom Metadata //-->
+<meta name="GLOBAL.Topic" content="hns" />
+
+
+
+<!-- Google+ Schema.org Data | https://developers.google.com/+/web/snippet/article-rendering -->
+<meta itemprop="name" content="Auctions" />
+<meta itemprop="description" content="The laws and conditions that cover the auction process." />
+<meta itemprop="image" content="" />
+
+<!-- Twitter Card Data | https://dev.twitter.com/cards/types/summary -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@{ENTER TWITTER USERNAME HERE}" />
+<meta name="twitter:title" content="Auctions" />
+<meta name="twitter:description" content="The laws and conditions that cover the auction process." />
+<meta name="twitter:image" content="" />
+
+<!-- Open Graph Data | http://ogp.me/ -->
+<meta property="og:title" content="Auctions" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/auction-laws-and-conditions" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="The laws and conditions that cover the auction process." />
+<meta property="og:site_name" content="NSW Fair Trading" />
+<meta property="article:published_time" content="2022-10-07T16:09:57+11:00" />
+<meta property="article:modified_time" content="2023-04-17T13:32:47+10:00" />
+<meta property="article:section" content="" />
+<meta property="article:tag" content="" />
+
+<!-- Google Site Verification -->
+<!--
+<meta name="google-site-verification" content="" />
+-->
+
+<!-- DNS Prefetch | https://www.w3.org/TR/resource-hints/#dfn-dns-prefetch -->
+<!--
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//maps.google.com">
+<link rel="dns-prefetch" href="//s7.addthis.com">
+<link rel="dns-prefetch" href="//platform.twitter.com">
+<link rel="dns-prefetch" href="//pbs.twimg.com">
+<link rel="dns-prefetch" href="//fbstatic-a.akamaihd.net">
+<link rel="dns-prefetch" href="//fbcdn-photos-h-a.akamaihd.net">
+<link rel="dns-prefetch" href="//fbcdn-profile-a.akamaihd.net">
+<link rel="dns-prefetch" href="//www.facebook.com">
+<link rel="dns-prefetch" href="//scontent.cdninstagram.com">
+-->
+
+<!-- Preconnect | https://www.w3.org/TR/resource-hints/#dfn-preconnect -->
+<!--
+<link rel="preconnect" crossorigin href="//fonts.gstatic.com">
+<link rel="preconnect" crossorigin href="//fonts.googleapis.com">
+<link rel="preconnect" crossorigin href="//maxcdn.bootstrapcdn.com">
+<link rel="preconnect" crossorigin href="//www.google-analytics.com">
+<link rel="preconnect" crossorigin href="//maps.google.com">
+<link rel="preconnect" crossorigin href="//s7.addthis.com">
+<link rel="preconnect" crossorigin href="//platform.twitter.com">
+<link rel="preconnect" crossorigin href="//pbs.twimg.com">
+<link rel="preconnect" crossorigin href="//fbcdn-photos-h-a.akamaihd.net">
+<link rel="preconnect" crossorigin href="//fbcdn-profile-a.akamaihd.net">
+<link rel="preconnect" crossorigin href="//scontent.cdninstagram.com">
+-->
+
+<!-- Prefetch Resources | https://www.w3.org/TR/resource-hints/#dfn-prefetch -->
+<!--link rel="prefetch" href="" as="image/script/html"--> <!-- {ENTER ACTUAL FILE NAME HERE}-->
+
+
+
+<!-- CSS -->
+<link href="https://www.fairtrading.nsw.gov.au/__data/assets/git_bridge/0003/334830/matrix-files/styles/main.css" rel="stylesheet">    <!--main.css-->
+<link href="https://www.fairtrading.nsw.gov.au/__data/assets/css_file_folder/0019/334810/client-custom.css?v=0.1.4" rel="stylesheet">    <!--client-custom.css-->
+<link href="https://www.fairtrading.nsw.gov.au/__data/assets/css_file/0004/393115/custom-accordion-tabs.css" rel="stylesheet"> <!-- accordion-tabs fix -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" integrity="sha256-PZLhE6wwMbg4AB3d35ZdBF9HD/dI/y4RazA3iRDurss=" crossorigin="anonymous" />    <!--magnific-popup.min.css v1.1.0-->
+
+<!-- JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js" integrity="sha256-WRc/eG3R84AverJv0zmqxAmdwQxstUpqkiE+avJ3WSo=" crossorigin="anonymous"></script>     <!--babel:polyfill.js v6.26.0-->
+<script src="https://www.fairtrading.nsw.gov.au/__data/assets/git_bridge/0003/334830/matrix-files/js/vendor/modernizr.min.js"></script>    <!--modernizr.js-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.34.4/es6-sham.min.js"></script>    <!--es6-sham.min.js-->
+
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script> <!--jQuery JavaScript Library v3.6.1-->
+
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js" integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY=" crossorigin="anonymous"></script> <!--jQuery UI - v1.13.1-->
+
+<script src="https://nswdfsi-search.squiz.cloud/s/resources-global/js/jquery.funnelback-completion-15.4.1.js"></script>    <!--jquery.funnelback-completion-15.4.1.js-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" integrity="sha256-P93G0oq6PBPWTP1IR8Mz/0jHHUpaWL0aBJTKauisG7Q=" crossorigin="anonymous"></script>    <!--magfinic-popup.min.js v1.1.0-->
+
+
+
+
+
+
+
+
+
+<!--funneback autocompletion init -->
+<script>
+    $(document).ready( function() {
+        // Auto-completion setup - header search box.
+        $("#search-box").fbcompletion({
+            'enabled': 'enabled',
+            'standardCompletionEnabled': true,
+            'collection' : 'dfsift-meta',
+            'program': 'https://nswdfsi-search.squiz.cloud/s/suggest.json',
+            'format': 'extended',
+            'alpha': '.5',
+            'show': '10',
+            'sort': '0',
+            'length': '3',
+            'delay': '0',
+            'profile': '_default_preview',
+            'query': 'collection=dfsift-meta&amp;query=&amp;profile=_default_preview',
+            //Search based completion
+            'searchBasedCompletionEnabled': false,
+            'searchBasedCompletionProgram': 'https://nswdfsi-search.squiz.cloud/s/search.json'
+        });
+
+        var mainSearchBoxJQ = $("#main-search-box");
+        var topSearchBoxJQ = $("#search-box");
+
+        // add a href link to each keywords in auto-completion list
+        var ulAutocompleteJQ = $(".ui-autocomplete");
+        if (ulAutocompleteJQ.length > 0) {
+            ulAutocompleteJQ.each(function() {
+                new MutationObserver(
+                    function(mutationRecords) {
+                        var keywordLinkItemListJQ = $(".ui-menu-item");
+                        if (keywordLinkItemListJQ.length > 0) {
+                            keywordLinkItemListJQ.each(function(index) {
+                                var kwAlinkJQ = $(this).find("a");
+                                if (367038 === 343710 || 367038 === 342788) {
+                                    if ($(this).parent().is("#ui-id-1")) {
+                                        kwAlinkJQ.attr("href", "?query=" + kwAlinkJQ.text());
+                                    } else {
+                                        kwAlinkJQ.attr("href", "https://www.fairtrading.nsw.gov.au/search?query=" + kwAlinkJQ.text());
+                                    }
+                                } else if (367038 === 343681) {
+                                    kwAlinkJQ.attr("href", "?query=" + kwAlinkJQ.text());
+                                } else {
+                                    kwAlinkJQ.attr("href", "https://www.fairtrading.nsw.gov.au/search?query=" + kwAlinkJQ.text());
+                                }
+                                kwAlinkJQ.attr("tabindex", index + 1)
+                            });
+                        }
+                    }
+                ).observe(
+                    this,
+                    {
+                        childList: true,
+                        attributes: true,
+                        characterData: true
+                    }
+                );
+            });
+        }
+
+        // add keyboard control for autocompletion box for global search
+        if (topSearchBoxJQ.length > 0) {
+            if (mainSearchBoxJQ.length > 0) {
+                var topSearchAutocompleteUlJQ = $("#ui-id-2");
+            } else {
+                var topSearchAutocompleteUlJQ = $("#ui-id-1");
+            }
+            topSearchBoxJQ.unbind("keydown").keydown(function(e) {
+                var currentSelectedJQ = $(".autocomplete-keyword-selected");
+                if (currentSelectedJQ.length === 0) {
+                    if (e.which === 40) {
+                        var firstLiJQ = topSearchAutocompleteUlJQ.children("li").first();
+                        firstLiJQ.addClass("autocomplete-keyword-selected");
+                        topSearchBoxJQ.val(firstLiJQ.text());
+                    }
+                    return;
+                }
+                if (e.which === 40) {
+                    var nextSelectedJQ = currentSelectedJQ.next("li");
+                    if (nextSelectedJQ.length === 0) {
+                        nextSelectedJQ = topSearchAutocompleteUlJQ.children("li").first();
+                    }
+                    currentSelectedJQ.removeClass("autocomplete-keyword-selected");
+                    nextSelectedJQ.addClass("autocomplete-keyword-selected");
+                    topSearchBoxJQ.val(nextSelectedJQ.text());
+                } else if (e.which === 38) {
+                    e.preventDefault();
+                    var previousSelectedJQ = currentSelectedJQ.prev("li");
+                    if (previousSelectedJQ.length === 0) {
+                        previousSelectedJQ = topSearchAutocompleteUlJQ.children("li").last();
+                    }
+                    currentSelectedJQ.removeClass("autocomplete-keyword-selected");
+                    previousSelectedJQ.addClass("autocomplete-keyword-selected");
+                    topSearchBoxJQ.val(previousSelectedJQ.text());
+                }
+            });
+        }
+
+        // add keyboard control for autocompletion box for main search (if exist)
+        if (mainSearchBoxJQ.length > 0) {
+            var mainSearchAutocompleteUlJQ = $("#ui-id-1");
+            mainSearchBoxJQ.unbind("keydown").keydown(function(e) {
+                var currentSelectedJQ = $(".autocomplete-keyword-selected");
+                if (currentSelectedJQ.length === 0) {
+                    if (e.which === 40) {
+                        var firstLiJQ = mainSearchAutocompleteUlJQ.children("li").first();
+                        firstLiJQ.addClass("autocomplete-keyword-selected");
+                        mainSearchBoxJQ.val(firstLiJQ.text());
+                    }
+                    return;
+                }
+                if (e.which === 40) {
+                    var nextSelectedJQ = currentSelectedJQ.next("li");
+                    if (nextSelectedJQ.length === 0) {
+                        nextSelectedJQ = mainSearchAutocompleteUlJQ.children("li").first();
+                    }
+                    currentSelectedJQ.removeClass("autocomplete-keyword-selected");
+                    nextSelectedJQ.addClass("autocomplete-keyword-selected");
+                    mainSearchBoxJQ.val(nextSelectedJQ.text());
+                } else if (e.which === 38) {
+                    e.preventDefault();
+                    var previousSelectedJQ = currentSelectedJQ.prev("li");
+                    if (previousSelectedJQ.length === 0) {
+                        previousSelectedJQ = mainSearchAutocompleteUlJQ.children("li").last();
+                    }
+                    currentSelectedJQ.removeClass("autocomplete-keyword-selected");
+                    previousSelectedJQ.addClass("autocomplete-keyword-selected");
+                    mainSearchBoxJQ.val(previousSelectedJQ.text());
+                }
+            });
+        }
+    });
+</script>
+
+<!-- Fonts -->
+<!--<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">-->
+<!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700&subset=latin,latin-ext" rel="stylesheet" media="screen">-->
+
+<!-- Favicons -->
+<link rel="shortcut icon" href="https://www.fairtrading.nsw.gov.au/__data/assets/image/0009/334818/favicon.png">
+<link rel="apple-touch-icon" href="https://www.fairtrading.nsw.gov.au/__data/assets/image/0009/334818/favicon.png">
+    
+    <!-- separated consultation style and only print for consultation pages -->
+    
+    <!-- / separated consultation style and only print for consultation pages -->
+    
+     <meta name="asset.id" content="367038">
+<meta name="asset.status" content="Live">
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 12 June 2024 19:44:01
+-->
+
+
+</head>
+
+<body class="
+        inside
+        
+    "
+    data-root-url="https://www.fairtrading.nsw.gov.au"
+    id="body">
+    
+    <!-- Google Tag Manager (noscript) --> 
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MNQHMV8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->    
+    
+    <!-- noindex -->
+                            
+    <div id="page-wrapper" class="
+        s-auction-laws-and-conditions 
+         
+         
+         
+        s-float-sidebar 
+        s-sidebar-bottom-mobile s-sidebar-split-mobile">
+        
+        <div class="pf-date" style="display: none">01-01-2003</div>
+        
+        <div class="o-page-container">
+            
+            <header class="header print-no" role="banner">
+                <div class="p-header__wrapper">
+                    <div class="p-header__inner">
+                        
+                        <!-- Design Nester - Header Content Start -->
+
+
+
+<!--Add/Remove Caretaker Banner message globals asset contentsraw :455400-->
+<div class="p-header__box p-header__logo alert__custom-desktop" itemscope="" itemtype="http://schema.org/Organization">
+    <div class="o-container">
+    	<h5>New regulator for building and construction industry</h5>
+<p>Building and construction services are transitioning to Building Commission NSW from 1 December 2023.</p>
+<p><a class="alert-link" href="https://www.fairtrading.nsw.gov.au/news-and-updates/notices/new-regulator-for-building-and-construction-industry">Find out what this means for you</a>.</p>
+    </div>
+    <style>
+    .alert__custom-desktop {
+        display: none;
+    }
+    .alert__custom-desktop .alert-link {
+        color: #fff;
+        text-decoration: underline;
+    }
+    @media screen and (min-width: 60em) {
+      .home .alert__custom-desktop {
+            display: block;
+            background-color: #002664;
+            color: white;
+        }
+    	.alert__custom-desktop h5 {
+    		margin-top: 0;
+    	}
+    }
+        
+    </style>
+</div>
+
+<div class="p-header__box p-header__logo" itemscope="" itemtype="http://schema.org/Organization">
+    <div class="o-container">
+        <ul class="p-skip-links">
+            <li><a href="#main" class="p-skip-link visuallyhidden focusable">Skip to the main content</a></li>
+            <li><a href="#main-nav" class="p-skip-link visuallyhidden focusable">Skip to main navigation</a></li>
+            <li><a href="#side-bar" class="p-skip-link visuallyhidden focusable">Skip to side bar</a></li>
+            <li><a href="#top-links" class="p-skip-link visuallyhidden focusable">Skip to the top links</a></li>
+            
+                <li><a href="#search-box" class="p-skip-link visuallyhidden focusable">Skip to search box</a></li>
+            
+        </ul>
+
+    </div>
+    
+    <div class="o-container">
+        <!--<a href="https://www.fairtrading.nsw.gov.au" rel="nofollow" class="p-header__logo-link">-->
+        <!--    <img src="https://www.fairtrading.nsw.gov.au/__data/assets/git_bridge/0003/334830/matrix-files/mysource_files/header-logo.svg" alt="fta logo" class="p-header__logo-img" />-->
+        <!--</a>-->
+        
+        
+           <div class="header-logo">
+              <div class="logo-wrapper">
+                <div class="nsw-header__waratah">
+                  <a href="https://www.fairtrading.nsw.gov.au" class="nsw-header__logo-link">
+                    <img src="https://www.fairtrading.nsw.gov.au/__data/assets/file/0012/1112601/PRIMARY-nsw-government-logo.svg" alt="fta logo" />            
+                      <span class="sr-only">NSW Government</span></a></div>
+                      <div class="nsw-header__name"><div class="nsw-header__title">Fair Trading</div>
+                      <div class="nsw-header__description"></div>
+                </div>
+              </div>
+           
+           <style>
+               .nsw-header__waratah {
+                  display: flex;
+                  justify-content: center;
+                  width: 42px;
+                  height: 46px;
+                }
+                
+                .nsw-header__waratah a {
+                  display: flex;
+                  text-decoration: none;
+                  align-items: center;
+                  
+                }
+                
+                .nsw-header__name {
+                  display: none;
+                }
+                .nsw-header__title {
+                  font-family: 'Public Sans', sans-serif;
+                  font-size: 1rem;
+                  display: flex;
+                  align-items: center;
+                }
+                
+                @media (min-width: 960px) {
+                    
+                #sq-google-translate-element{
+                    top: calc(-85% - 3em);
+                }
+
+                 #sq-google-translate-element .goog-te-gadget > div{
+                     margin-bottom: 0;
+                 }
+                 
+                 #sq-google-translate-element .goog-te-gadget > span{
+                    position: relative;
+                    top: 6px;
+                 }
+                 
+                 #sq-google-translate-element .goog-te-gadget > span a{
+                    display: inline-flex;
+                 }
+                 
+                 #sq-google-translate-element .goog-te-gadget > span img{
+                    margin: 0;
+                    padding-top: 4px;
+                 }
+                 
+                }
+                
+                @media (min-width: 1024px) {
+
+                  .nsw-header__waratah {
+                      padding: 0;
+                       width: 72px;
+                      height: 76px;
+                      
+                  }
+
+                  .nsw-header__waratah a:after {
+                      z-index: 100;
+                      content: "";
+                      position: absolute;
+                      top: 0;
+                      right: 0;
+                      bottom: 0;
+                      left: 0;
+                  }
+                  .nsw-header__name {
+                      /*padding: 0;*/
+                      /*margin-left: 37.6px;*/
+                      display: inline-block;
+                  }
+                  .nsw-header__title {
+                      font-size: 1.5rem;
+                      font-weight: 700;
+                      color: #002664;
+                  }
+                }
+           </style>
+        
+        
+  </div>
+<div class="p-top-links" id="top-links">
+    <ul class="p-top-links__list">
+        <li class="p-top-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/about-fair-trading" class="p-top-links__link">About Fair Trading</a>
+</li><li class="p-top-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/media-releases-news-updates" class="p-top-links__link">News</a>
+</li><li class="p-top-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/help-centre" class="p-top-links__link">Help centre</a>
+</li><li class="p-top-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/contact-us" class="p-top-links__link">Contact us</a>
+</li>
+    </ul>
+</div>        
+    </div>
+</div>
+
+<!-- Design Nester - Header Content End -->                        
+                        
+                        <nav class="p-main-nav" id="main-nav">
+                            <div class="o-container">
+                                <a href="#" class="c-btn c-btn--flat p-main-nav__mobile-trigger">
+                                    <span class="visuallyhidden">Nav mobile button</span>
+                                    <span class="p-main-nav__mobile-svg">
+                                        <svg class="c-icon">
+                                            <use xlink:href="https://www.fairtrading.nsw.gov.au/__data/assets/file/0008/349505/sprite.svg?v=0.1.16#burger-search" />
+                                        </svg>
+                                    </span>
+                                    <span class="p-main-nav__mobile-svg--active">
+                                        <svg class="c-icon">
+                                            <use xlink:href="https://www.fairtrading.nsw.gov.au/__data/assets/file/0008/349505/sprite.svg?v=0.1.16#close" />
+                                        </svg>
+                                    </span>
+                                </a>
+                                <div class="p-main-nav__list-wrap">
+                                    <div class="p-main-nav__contents">
+                                        
+                                        <div class="p-main-nav__search">
+    <div class="c-search">
+        <form action="https://www.fairtrading.nsw.gov.au/search" method="get">
+            <div class="c-search__wrap">
+                <input type="search" class="c-search__input" name="query" id="search-box" title="search" placeholder="Search" />
+                <button class="c-search__btn">
+                <span class="c-search__btn-text">Search</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>                                        
+                                        														                                            
+                                            <ul class="p-main-nav__list">
+                                                                                                    <li class="p-main-nav__item">
+                                                        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property" class="p-main-nav__link">Housing &amp; property</a>
+                                                        														                                                            <div class="p-main-nav__sub-list">
+                                                                <div class="p-card__list">
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/renting" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Renting</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information for tenants, landlords and agents on renting.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/short-term-rental-accommodation" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Short-term rental accommodation</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information about the laws for short-term rental accommodation in NSW</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/buying-and-selling-property" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Buying &amp; selling property</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information on buying and selling different types of property.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Building &amp; renovating</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Useful information before you renovate, extend or repair your existing home.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/loose-fill-asbestos-insulation" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Loose-fill asbestos insulation</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Details of the Voluntary Purchase and Demolition Program for homes in NSW found to contain loose-fill asbestos insulation.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Property professionals</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Helping you understand how to qualify as a property professional, run a property business, and your responsibilities when managing properties.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/retirement-villages" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Retirement villages</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>This section outlines the rights and responsibilities of residents, prospective residents and operators. Please select from the choices below.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/strata-and-community-living" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Community living</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Details the rights and responsibilities of those living or operating community precinct or neighbourhood schemes, boarding houses, holiday parks and land lease communities.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/reforms-to-fire-safety-regulation" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Reforms to fire safety regulation </h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Important reforms to fire safety regulation in NSW.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/fire-safety-and-external-wall-cladding" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Fire safety and external wall cladding</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information for owners, tenants, strata managers and real estate agents on the issues of aluminium cladding and fire safety.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/strata-building-bond-and-inspections-scheme" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Strata Building Bond &amp; Inspections Scheme</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Details the steps developers, building inspectors and owners must take to progress a building bond to fix defects identified in new apartment buildings.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/home-building-delays" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Home building delays in NSW</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Find out what to do about delays, price increases, insolvent builders and solving disputes.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/pilot-end-of-tenancy-survey" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Pilot end of tenancy survey</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p></p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                    </div>
+                                                            </div>
+                                                        				                                                    </li>
+                                                                                                    <li class="p-main-nav__item">
+                                                        <a href="https://www.fairtrading.nsw.gov.au/trades-and-businesses" class="p-main-nav__link">Trades &amp; businesses</a>
+                                                        														                                                            <div class="p-main-nav__sub-list">
+                                                                <div class="p-card__list">
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/trades-and-businesses/licensing-and-qualifications" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Licensing &amp; qualifications</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information about becoming a licensed tradesperson in NSW.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/trades-and-businesses/construction-and-trade-essentials" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Construction &amp; trade essentials</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information about the essentials of being part of the building and construction industry.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/trades-and-businesses/business-essentials" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Business essentials</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Helping you to run your business, including specific industries like conveyancing, motor trades and building certifiers</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                    </div>
+                                                            </div>
+                                                        				                                                    </li>
+                                                                                                    <li class="p-main-nav__item">
+                                                        <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services" class="p-main-nav__link">Buying products &amp; services</a>
+                                                        														                                                            <div class="p-main-nav__sub-list">
+                                                                <div class="p-card__list">
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-products" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Buying products</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Learn about your rights and what to do if a product you purchased isn’t quite right. <br> Select a tile below to get started.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/buying-services" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Buying services</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Learn about your rights and what to do if a service you purchased isn’t quite right. <br> Select one of the tile below to get started.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/travel" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Travel</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Advice on your consumer rights including flights, cruises, tours, accommodation, natural disaster - affected travel and booking a travel service in Australia.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/ways-to-shop-and-pay" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Ways to shop and pay</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information on different ways you can pay for products and services. <br>Select one of the tiles below to get started.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/guarantees,-contracts-and-warranties" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Guarantees, contracts &amp; warranties</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Our laws guarantee your right to  repairs, replacements and refunds. You have these guarantees even if you do not have a warranty. Select a tile below to get started</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/repairs,-replacements-and-refunds" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Repairs, replacements &amp; refunds</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>When you’re entitled to a repair, replacement or refund.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/product-and-service-safety" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Product &amp; service safety</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Every day in NSW, people are admitted to hospital with injuries caused by items purchased for use in and around the home. Select a tile below to get started.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/pricing" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Pricing</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information on the different types of pricing, and what to do if you have a problem</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/scams" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Scams and cybercrime</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Types of scams and cybercrime, how to report them, getting help and tips to stay safe.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/advertising-and-pricing" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Advertising</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Advertising is an effective way to attract customers, but the law says advertising must be truthful and easy to understand. Click on a tile below to get started.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/buying-products-and-services/debt-collection,-repossession-of-goods-and-process-serving" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Debt collection, repossession of goods and process serving</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>What to know if you're approached by a commercial agent to collect a debt, repossess goods, or serve legal documents.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                    </div>
+                                                            </div>
+                                                        				                                                    </li>
+                                                                                                    <li class="p-main-nav__item">
+                                                        <a href="https://www.fairtrading.nsw.gov.au/cars-and-other-vehicles" class="p-main-nav__link">Cars &amp; other vehicles</a>
+                                                        																		                                                    </li>
+                                                                                                    <li class="p-main-nav__item">
+                                                        <a href="https://www.fairtrading.nsw.gov.au/associations-and-co-operatives" class="p-main-nav__link">Associations &amp; co‑operatives</a>
+                                                        														                                                            <div class="p-main-nav__sub-list">
+                                                                <div class="p-card__list">
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/associations-and-co-operatives/associations" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Associations</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Information for people running or wanting to run an association in NSW.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/associations-and-co-operatives/co-operatives" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Co-operatives</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Find out how to start and run a co-operative in NSW.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                    </div>
+                                                            </div>
+                                                        				                                                    </li>
+                                                                                                    <li class="p-main-nav__item">
+                                                        <a href="https://www.fairtrading.nsw.gov.au/charitable-fundraising" class="p-main-nav__link">Charitable fundraising</a>
+                                                        																		                                                    </li>
+                                                                                                    <li class="p-main-nav__item">
+                                                        <a href="https://www.fairtrading.nsw.gov.au/community-gaming" class="p-main-nav__link">Community gaming</a>
+                                                        																		                                                    </li>
+                                                                                                    <li class="p-main-nav__item">
+                                                        <a href="https://www.fairtrading.nsw.gov.au/media-releases-news-updates" class="p-main-nav__link">Media releases, news &amp; updates</a>
+                                                        														                                                            <div class="p-main-nav__sub-list">
+                                                                <div class="p-card__list">
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/media-releases-news-updates/events-calendar" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Events calendar</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Register for our free community events.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/media-releases-news-updates/notices" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Notices</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>Read the latest notices, product recalls, and consumer warnings from NSW Fair Trading.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                            <a href="https://www.fairtrading.nsw.gov.au/media-releases-news-updates/public-warnings" class="p-card__item p-main-nav__sub-link" role="link">
+                                                                            <h2 class="p-card__title">Public warnings</h2>
+                                                                            <div class="p-card__content">
+                                                                                <p>A list of public warnings about unfair business practices and people who engage in them.</p>
+                                                                            </div>
+                                                                        </a>
+                                                                                                                                    </div>
+                                                            </div>
+                                                        				                                                    </li>
+                                                                                            </ul>
+                                            <div class="p-top-links" id="top-links">
+    <ul class="p-top-links__list">
+        <li class="p-top-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/about-fair-trading" class="p-top-links__link">About Fair Trading</a>
+</li><li class="p-top-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/media-releases-news-updates" class="p-top-links__link">News</a>
+</li><li class="p-top-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/help-centre" class="p-top-links__link">Help centre</a>
+</li><li class="p-top-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/contact-us" class="p-top-links__link">Contact us</a>
+</li>
+    </ul>
+</div>
+                                            <div id="sq-google-translate-element"></div>
+                                            <script type="text/javascript">
+                                                'use strict';
+                                                function googleTranslateElementInit() {
+                                                    new google.translate.TranslateElement({
+                                                        pageLanguage: 'en',
+                                                        autoDisplay: false,
+                                                    }, 'sq-google-translate-element');
+                                                }
+                                            </script>
+                                            <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                                            <style>
+                                                /* css fix for google translate*/
+                                                .c-social-links font {
+                                                    display: none;
+                                                }
+                                            </style>
+                                        				                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                        <!--.navbar-collapse-->
+                        
+                        
+                
+                    </div>
+                </div>
+            </header>
+            
+            <main class="main" role="main" id="main" itemscope="" itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
+                
+                
+                                    
+                    <div class="t-bg--primary-color">
+                        <div class="o-container">
+                            <div class="c-breadcrumbs p-site-breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                                <a class="c-breadcrumbs__link" href="https://www.fairtrading.nsw.gov.au" itemprop="url">
+                                    <span itemprop="title">Home</span>
+                                </a>
+                                 
+                                    <a class="c-breadcrumbs__link" href="https://www.fairtrading.nsw.gov.au/housing-and-property">
+                                        <span itemprop="title">Housing &amp; property</span>
+                                    </a>
+                                 
+                                    <a class="c-breadcrumbs__link" href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals">
+                                        <span itemprop="title">Property professionals</span>
+                                    </a>
+                                 
+                                    <a class="c-breadcrumbs__link" href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent">
+                                        <span itemprop="title">Working as an agent</span>
+                                    </a>
+                                                                <a class="c-breadcrumbs__link active">
+                                    <span itemprop="title">Auctions</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--.breadcrumb-->
+                                
+                
+                <!-- endnoindex -->
+                        
+                <!-- Design Body Start -->
+                
+                <!-- Paint Layout - DFSI Fair Trading - Default Start -->
+<!-- noindex -->
+<div class="p-banner" style="background-image:url()">
+    <div class="o-container">
+        <h1 class="p-banner__heading">Auctions</h1>
+        <div class="p-banner__desc"></div>
+    </div>
+</div>
+
+<div class="o-container" id="page-content">
+    <div class="o-layout o-layout--right-aside">
+                <div class="o-aside">
+        
+
+<nav class="c-side-nav">
+    
+    <a class="c-side-nav__heading">
+        <h5 class="rs_skip">Working as an agent</h5>
+        <span class="c-side-nav__trigger-svg">
+            <svg class="c-icon">
+                <use xlink:href="https://www.fairtrading.nsw.gov.au/__data/assets/git_bridge/0003/334830/matrix-files/styles/mysource_files/sprite.svg#arrow-right"></use>
+            </svg>
+        </span>
+    </a>
+    
+    <div class="c-side-nav__body">
+        <div class="c-accordion_disabled">
+            <div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-1" data-assetid="367034">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/rules-of-conduct" class="c-accordion__title" id="secondary-nav-tab-367034">
+        <h5 class="c-accordion__title-inner rs_skip">Rules of conduct</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-367034"><div class="c-accordion__panel__inner">
+    <div>
+        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/rules-of-conduct/disclosure-requirements" class="e-link--more-svg rs_skip" >Disclosure requirements</a>
+    </div>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/rules-of-conduct" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-2" data-assetid="654087">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/agency-agreements" class="c-accordion__title" id="secondary-nav-tab-654087">
+        <h5 class="c-accordion__title-inner rs_skip">Agency agreements</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-654087"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-654087 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/agency-agreements" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-3" data-assetid="367123">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/pre-purchase-inspection-reports" class="c-accordion__title" id="secondary-nav-tab-367123">
+        <h5 class="c-accordion__title-inner rs_skip">Pre-purchase inspection reports</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-367123"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-367123 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/pre-purchase-inspection-reports" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-4" data-assetid="367038">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/auction-laws-and-conditions" class="c-accordion__title" id="secondary-nav-tab-367038">
+        <h5 class="c-accordion__title-inner rs_skip">Auctions</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-367038"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-367038 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/auction-laws-and-conditions" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-5" data-assetid="367030">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/discipline" class="c-accordion__title" id="secondary-nav-tab-367030">
+        <h5 class="c-accordion__title-inner rs_skip">Disciplinary action</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-367030"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-367030 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/discipline" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-6" data-assetid="366962">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/misrepresentation-guidelines" class="c-accordion__title" id="secondary-nav-tab-366962">
+        <h5 class="c-accordion__title-inner rs_skip">Misrepresentation</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-366962"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-366962 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/misrepresentation-guidelines" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-7" data-assetid="584898">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/Continuing-Professional-Development-CPD-requirements" class="c-accordion__title" id="secondary-nav-tab-584898">
+        <h5 class="c-accordion__title-inner rs_skip">Continuing Professional Development (CPD) requirements</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-584898"><div class="c-accordion__panel__inner">
+    <div>
+        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/Continuing-Professional-Development-CPD-requirements/compulsory-topic-outline" class="e-link--more-svg rs_skip" >Compulsory topic outline</a>
+    </div>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/Continuing-Professional-Development-CPD-requirements" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-8" data-assetid="366937">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/advertising-guidelines" class="c-accordion__title" id="secondary-nav-tab-366937">
+        <h5 class="c-accordion__title-inner rs_skip">Advertising guidelines</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-366937"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-366937 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/advertising-guidelines" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-9" data-assetid="822822">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/sales-contracts" class="c-accordion__title" id="secondary-nav-tab-822822">
+        <h5 class="c-accordion__title-inner rs_skip">Sales contracts</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-822822"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-822822 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/sales-contracts" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-10" data-assetid="366986">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/underquoting" class="c-accordion__title" id="secondary-nav-tab-366986">
+        <h5 class="c-accordion__title-inner rs_skip">Underquoting</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-366986"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-366986 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/underquoting" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-11" data-assetid="1127804">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/personal-information-and-tenancy-applications" class="c-accordion__title" id="secondary-nav-tab-1127804">
+        <h5 class="c-accordion__title-inner rs_skip">Personal information and tenancy applications</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-1127804"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-1127804 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/personal-information-and-tenancy-applications" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+
+        </div>
+    </div>
+</nav>
+
+
+
+
+
+
+<div class="c-tools print-no">
+    <ul class="c-tools__list">
+        
+                <li class="c-tools__item print-no">
+            <a href="#" class="c-tools__link c-tools__link--share rs_skip">
+            Share this page
+            </a>
+            <div class="c-tools__body">
+                <ul class="c-tools__list">
+                    <li class="c-tools__item">
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fairtrading.nsw.gov.au%2Fhousing-and-property%2Fproperty-professionals%2Fworking-as-a-property-agent%2Fauction-laws-and-conditions" class="c-tools__link c-tools__link--facebook  rs_skip" target="_blank">Facebook</a>
+                    </li>
+                    <li class="c-tools__item">
+                        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.fairtrading.nsw.gov.au%2Fhousing-and-property%2Fproperty-professionals%2Fworking-as-a-property-agent%2Fauction-laws-and-conditions&text=Auctions" class="c-tools__link c-tools__link--twitter  rs_skip" target="_blank">Twitter</a>
+                    </li>
+                    <li class="c-tools__item">
+                        <a href="https://www.linkedin.com/shareArticle?title=Auctions&description=&url=https%3A%2F%2Fwww.fairtrading.nsw.gov.au%2Fhousing-and-property%2Fproperty-professionals%2Fworking-as-a-property-agent%2Fauction-laws-and-conditions" class="c-tools__link c-tools__link--linkedin  rs_skip" target="_blank">Linkedin</a>
+                    </li>
+                    <li class="c-tools__item">
+                        <a href="/cdn-cgi/l/email-protection#d7e8a4a2b5bdb2b4a3ea998480f791b6bea5f783a5b6b3beb9b0f2e5e7faf2e5e796a2b4a3beb8b9a4f1b5b8b3aeeabfa3a3a7a4f2e496f2e591f2e591a0a0a0f9b1b6bea5a3a5b6b3beb9b0f9b9a4a0f9b0b8a1f9b6a2f2e591bfb8a2a4beb9b0fab6b9b3faa7a5b8a7b2a5a3aef2e591a7a5b8a7b2a5a3aefaa7a5b8b1b2a4a4beb8b9b6bba4f2e591a0b8a5bcbeb9b0fab6a4fab6faa7a5b8a7b2a5a3aefab6b0b2b9a3f2e591b6a2b4a3beb8b9fabbb6a0a4fab6b9b3fab4b8b9b3bea3beb8b9a4" class="c-tools__link c-tools__link--email rs_skip" target="_blank">Email</a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+                
+        
+                <li class="c-tools__item print-no">
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+            var pfHeaderImgUrl = 'https://www.fairtrading.nsw.gov.au/__data/assets/git_bridge/0003/334830/matrix-files/mysource_files/header-logo.svg';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'https://www.fairtrading.nsw.gov.au/_design/css/printfriendly.css/_nocache?assetid=367038';var pfBtVersion='2';var pfdisableClickToDel = 1;(function(){var js,pf;pf=document.createElement('script');pf.type='text/javascript';pf.src='//cdn.printfriendly.com/printfriendly.js';document.getElementsByTagName('head')[0].appendChild(pf)})();</script>
+            <a href="#" class="c-tools__link c-tools__link--download printfriendly rs_skip" title="Printer Friendly and PDF" onclick="window.print();return false;" download>Download</a>
+        </li>
+                
+                <li class="c-tools__item">
+            <a href="javascript:window.print()" class="c-tools__link c-tools__link--print rs_skip">Print</a>
+        </li>
+                
+        
+    </ul>
+</div>
+<div class="c-side-links">
+    
+    <h3 class="c-side-links__heading rs_skip print-no">Related documents and links</h3>
+    
+    <ul class="c-side-links__list rs_skip print-no">
+                <li class="c-side-links__item">
+                        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/buying-and-selling-property/buying-a-property/bidders-guide" class="c-side-links__link rs_skip">Bidders guide</a>
+                    </li>
+                
+                <li class="c-side-links__item rs_skip print-no">
+                        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/licensing-certification-and-qualification/qualifications" class="c-side-links__link rs_skip">Qualifications</a>
+                    </li>
+                
+                <li class="c-side-links__item rs_skip print-no">
+                        <a href="https://www.service.nsw.gov.au/transaction/apply-accreditation-auctioneer" class="c-side-links__link rs_skip">Apply to be an auctioneer</a>
+                    </li>
+                
+                
+                
+                
+                
+                
+    </ul>
+</div>
+                </div>
+                
+        <div class="o-content">
+            
+                            
+
+<nav class="c-side-nav">
+    
+    <a class="c-side-nav__heading">
+        <h5 class="rs_skip">Working as an agent</h5>
+        <span class="c-side-nav__trigger-svg">
+            <svg class="c-icon">
+                <use xlink:href="https://www.fairtrading.nsw.gov.au/__data/assets/git_bridge/0003/334830/matrix-files/styles/mysource_files/sprite.svg#arrow-right"></use>
+            </svg>
+        </span>
+    </a>
+    
+    <div class="c-side-nav__body">
+        <div class="c-accordion_disabled">
+            <div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-1" data-assetid="367034">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/rules-of-conduct" class="c-accordion__title" id="secondary-nav-tab-367034">
+        <h5 class="c-accordion__title-inner rs_skip">Rules of conduct</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-367034"><div class="c-accordion__panel__inner">
+    <div>
+        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/rules-of-conduct/disclosure-requirements" class="e-link--more-svg rs_skip" >Disclosure requirements</a>
+    </div>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/rules-of-conduct" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-2" data-assetid="654087">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/agency-agreements" class="c-accordion__title" id="secondary-nav-tab-654087">
+        <h5 class="c-accordion__title-inner rs_skip">Agency agreements</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-654087"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-654087 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/agency-agreements" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-3" data-assetid="367123">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/pre-purchase-inspection-reports" class="c-accordion__title" id="secondary-nav-tab-367123">
+        <h5 class="c-accordion__title-inner rs_skip">Pre-purchase inspection reports</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-367123"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-367123 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/pre-purchase-inspection-reports" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-4" data-assetid="367038">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/auction-laws-and-conditions" class="c-accordion__title" id="secondary-nav-tab-367038">
+        <h5 class="c-accordion__title-inner rs_skip">Auctions</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-367038"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-367038 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/auction-laws-and-conditions" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-5" data-assetid="367030">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/discipline" class="c-accordion__title" id="secondary-nav-tab-367030">
+        <h5 class="c-accordion__title-inner rs_skip">Disciplinary action</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-367030"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-367030 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/discipline" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-6" data-assetid="366962">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/misrepresentation-guidelines" class="c-accordion__title" id="secondary-nav-tab-366962">
+        <h5 class="c-accordion__title-inner rs_skip">Misrepresentation</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-366962"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-366962 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/misrepresentation-guidelines" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-7" data-assetid="584898">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/Continuing-Professional-Development-CPD-requirements" class="c-accordion__title" id="secondary-nav-tab-584898">
+        <h5 class="c-accordion__title-inner rs_skip">Continuing Professional Development (CPD) requirements</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-584898"><div class="c-accordion__panel__inner">
+    <div>
+        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/Continuing-Professional-Development-CPD-requirements/compulsory-topic-outline" class="e-link--more-svg rs_skip" >Compulsory topic outline</a>
+    </div>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/Continuing-Professional-Development-CPD-requirements" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-8" data-assetid="366937">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/advertising-guidelines" class="c-accordion__title" id="secondary-nav-tab-366937">
+        <h5 class="c-accordion__title-inner rs_skip">Advertising guidelines</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-366937"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-366937 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/advertising-guidelines" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-9" data-assetid="822822">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/sales-contracts" class="c-accordion__title" id="secondary-nav-tab-822822">
+        <h5 class="c-accordion__title-inner rs_skip">Sales contracts</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-822822"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-822822 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/sales-contracts" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-10" data-assetid="366986">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/underquoting" class="c-accordion__title" id="secondary-nav-tab-366986">
+        <h5 class="c-accordion__title-inner rs_skip">Underquoting</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-366986"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-366986 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/underquoting" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+<div class="c-accordion__item second-nav-l1__item btn-container" id="second-nav-l1-11" data-assetid="1127804">
+     <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/personal-information-and-tenancy-applications" class="c-accordion__title" id="secondary-nav-tab-1127804">
+        <h5 class="c-accordion__title-inner rs_skip">Personal information and tenancy applications</h5>
+    </a>
+    <div class="c-accordion__pane" id="secondary-nav-panel-1127804"><div class="c-accordion__panel__inner">
+    <style>
+        #secondary-nav-tab-1127804 .c-accordion__angle {
+            display: none;
+        }
+    </style>
+</div>    </div>
+      <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/personal-information-and-tenancy-applications" class="c-accordion__title btn-full-view">
+       </a>
+</div>
+
+        </div>
+    </div>
+</nav>
+
+
+
+
+
+
+
+                        
+            <!-- accessibility reader: start -->
+            <div class="rs_skip rsbtn rs_preserve print-no" style="margin: 10px 0;">
+                <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=7371&amp;lang=en_au&amp;readid=page-content&amp;url=https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/auction-laws-and-conditions">
+                <span class="rsbtn_left rsimg rspart">
+                <span class="rsbtn_text">
+                <span>Listen</span>
+                </span>
+                </span>
+                <span class="rsbtn_right rsimg rsplay rspart"></span>
+                </a>
+            </div>
+           <!--   accessibility reader: end -->
+            
+            <!-- endnoindex -->
+            <!-- Asset Contents Start -->
+            <p class="e-intro">Real estate agents, stock and station agents and auctioneers need to understand their responsibilities.</p> 
+ 
+    <p>The Property and Stock Agents Act 2002 (the Act) and the Property and Stock Agents Regulation 2022 (the Regulation) regulate the way that auctions of land or livestock are conducted in New South Wales. Auctions may be conducted by any means, for example in person or electronically.</p><h2>Registering bidders</h2><p>NSW Fair Trading's&nbsp;Bidder's guide has information including how to register, the kinds of proof of identity required, privacy rights and auction conditions.</p><p>The selling agent must give all bidders a copy prior to the auction. This could take place at the inspections.</p>
+    
+
+<div class="o-col o-col--2">
+    
+                    <div class="o-col__item"><a href="https://www.fairtrading.nsw.gov.au/housing-and-property/buying-and-selling-property/buying-a-property/bidders-guide" class="e-link--more-svg">Download the bidders guide</a></div>
+                
+        
+        
+        
+</div>
+<div id="content_container_612432">
+<h3>The Bidders Record</h3><p>For each auction, a Bidders Record of everyone registered to bid needs to be made. Each bidder must be given a bidder&rsquo;s number to display. The Bidders Record can be made by:</p><ul type="disc"><li>the selling agent, or</li><li>another agent engaged to act in respect of the sale or acting for or on behalf of the auctioneer.</li></ul><blockquote><p>Important:&nbsp;The selling agent must make sure that all potential bidders receive a copy of the&nbsp;Bidder&rsquo;s guide&nbsp;prior to auction.</p></blockquote><h3>Details to be included in the Bidders Record</h3><p>The Bidders Record must be in English and must include:</p><ul type="disc"><li>the date and place of the auction</li><li>the address of the property or properties being auctioned</li><li>the name of the owner of the property at the time of the auction</li><li>the names and licence numbers of the selling agent and the auctioneer</li><li>each bidder&rsquo;s name, address, the identifying number of their proof of identity (see the&nbsp;<a href="https://www.fairtrading.nsw.gov.au/housing-and-property/buying-and-selling-property/buying-a-property/bidders-guide" title="Bidder's guide">bidder's guide</a> for more information) and the bidder number allocated to the person for the auction</li><li>if the person registering is a licensed agent acting for a buyer &ndash; their licence number</li><li>if the bidder is bidding on behalf of someone else, the other person&rsquo;s name, address and the identifying number of their proof of identity. This requirement does not apply if the person registering has a power of attorney to act for the other person &ndash; they can simply register to bid in their own right</li><li>the highest bid accepted and vendor bid (if any).</li></ul><p>A person who intends to bid on behalf of someone else will need to show the agent a letter of authority to bid for that person (unless they have power of attorney).</p><p>The letter must include the person&rsquo;s name, address and identifying number of their proof of identity. The agent does not have to keep a copy of the letter.</p><p>This also applies to &lsquo;telephone bidding&rsquo;. Where a licensed person acting as a buyer&rsquo;s agent registers to bid, they may show their agency authority instead of a letter.</p><p>If the person is bidding for a company, the ABN must be recorded. The letter authorising the person to bid should be on the company letterhead.</p><p>If a couple is registering to bid, only one of them needs to register.</p><p>This applies to any group of two or more people bidding to buy the property together. If the hopeful buyer has brought a friend or family member to bid for them, the buyer should sign a letter authorising the other person to bid for them.</p><blockquote><p>Important:&nbsp;details in the Bidders Record cannot be shown to anyone, including the vendor.</p></blockquote><h3>Proof of identity</h3><p>The proof of identity requirements have been made as flexible as possible. The basic requirement is that the proof of identity must show the bidder&rsquo;s name and address and must be issued by a government authority or a financial institution. An Australian passport is an example of acceptable proof.</p><p>If the bidder does not have proof of identity which meets that requirement, they can provide two kinds of card or document, at least one of which was issued by a government authority or a financial institution and one which shows their address.</p><p>For example, if the bidder has a Medicare card, a birth certificate, ATM card or overseas document such as passport or driver&rsquo;s licence as their main proof of identity, they will also need something that shows their address, such as a utilities bill or a rental agreement. Certified copies of documents are not accepted as proof of identity.</p><p>Proof of identity documents can be produced electronically if the agent consents. For example, emailing a photo or PDF of proof of identity documents is consistent with this requirement. Producing documents via an audio-visual link, such as holding up documents during a Zoom chat is not permitted.</p><p>If they don&rsquo;t have anything showing their address, the regulations allow them to complete a statutory declaration stating their address.</p><blockquote><p>Important:&nbsp;if a couple is registering to bid and would be buying the property together, only one of them needs to register.</p></blockquote><h3>The bidder number</h3><p>There are no set requirements about the form of the bidder numbers &ndash; this is left up to agents to decide. The number could, for example, be printed or written on a paddle with a handle, or on a piece of cardboard or plastic or laminated paper.</p><p>The basic requirement is that the number can be clearly seen by the auctioneer. It is also important to make sure that each bidder has a different number.</p><h3>Pre-registering bidders before the auction day</h3><p>Agents can pre-register bidders in advance of the auction to save time on the day. This could be done when prospective buyers are inspecting the property, or any time prior to the auction.</p><p>Agents could encourage prospective buyers to drop in or telephone the selling agent&rsquo;s office to register their intention to bid by giving their name and address.</p><p>Many of the details on the Bidders Record can also be filled out in advance, such as the property address and owner&rsquo;s name.</p><p>When pre-registered bidders arrive at the auction, agents will need to confirm it is the same person by checking their proof of identity. The prospective buyer can then be given their bidder number.</p><h3>Late arrivals</h3><p>Potential buyers who arrive at the auction late are not prevented from bidding &ndash; but they will need to have a bidder number before the auctioneer can take their bids.</p><p>While it is up to agents to decide how they wish to deal with registering late bidders, the following suggestions may be helpful:</p><ul type="disc"><li>a sign could be placed near the entrance to inform bidders that they need to register</li><li>a registration table could be set up near the entrance</li><li>agency staff could carry registration forms on a clipboard and approach late arrivals.</li></ul><p>If a bidder arrives at the auction at the crucial point where it is necessary for their bid to be made immediately, they should be advised to raise their hand to indicate to the auctioneer that they wish to make a bid.</p><p>It should only take a moment for an agency staff member to note the person&rsquo;s details from their proof of identity and hand them a bidder&rsquo;s number.</p><h3>Multi-property auctions</h3><p>The laws provide for several options for creating the Bidders Record for auctions which involve more than one property and/or multiple agents.</p><p>Where more than one property is offered for sale at an auction, a single Bidders Record may be created which lists the required details for each of the properties.</p><p>Bidders would only need to register once, get one bidder number and would be able to bid for any of the listed properties.</p><p>Where a multi-property auction involves more than one selling agent:</p><ul type="disc"><li>one Bidders Record may be created for all of the properties being auctioned, or</li><li>each agent may create their own Bidders Record for the properties they are selling.</li></ul><p>Depending on the size of the auction, it may be necessary to set up a number of registration tables.</p><p>The person responsible for organising the auction will need to make sure that only one series of bidder numbers is used for the auction.</p><h3>Privacy of bidders&rsquo; details</h3><p>The Bidders Record is subject to strict confidentiality requirements.</p><p>Details in the Bidders Record can only be shown to NSW Fair Trading. An authorised investigator would make a written request to the agent to see the Bidders Record. It cannot be shown to the vendor.</p><p>The information in the Bidders Record must not be used for any other purpose &ndash; it cannot be used to contact bidders and the details it contains cannot be disclosed to anyone else, including the vendor.</p><h3>Keeping the Bidders Record</h3><p>The Bidders Record is subject to the general record keeping requirements of the Act.</p><p>After a Bidders Record is created, the agent who was responsible for creating it must keep it in a secure place for at least 3 years and must keep all their Bidders Records together, in the form of a Register of Bidders Records.</p><p>The Bidders Record may be made directly on to computer at the auction or may be transferred to a computer later. Records may be kept on computer or other electronic storage device, as long as a hard copy can be given to NSW Fair Trading if required.</p><p>Where a single Bidders Record is made for an auction involving multiple agents, each agent&rsquo;s records will need to note the details of the agent who made and keeps the Bidders Record for that auction.</p><h2>Auctioneers</h2><p>An auctioneer must not accept a bid from a person unless they are registered in the Bidders Record for the auction and have been given a bidder number.</p><p>Auctioneers are not liable to the vendor or any other person for refusing a bid from an unregistered person.</p><p>To protect vendors and buyers, a bid taken from an unregistered person, whether inadvertently or deliberately, is deemed to be valid. However, the auctioneer may be subject to disciplinary action by NSW Fair Trading and a fine of up to $11,000.</p><p>It is an offence for an auctioneer to invent bids.</p><p>Only one bid may be made on behalf of the vendor by the auctioneer.</p><p>The vendor&rsquo;s bid by the auctioneer cannot be used unless notice of the right to bid is notified in the conditions of sale, which must be clearly displayed and be available for inspection before the auction commences.</p><p>When the vendor&rsquo;s bid is made by the auctioneer, the auctioneer must state that it is a &ldquo;vendor&rsquo;s bid&rdquo;.</p><p>A co-owner, executor, administrator or someone bidding on their behalf, may make more than one bid as long as:</p><ul type="disc"><li>this is outlined in the auction conditions</li><li>the auctioneer has announced this before the start of bidding at the auction</li><li>the auctioneer announces the bidder registration number of any co-owner, executor, administrator, or someone bidding on their behalf.</li></ul><blockquote><p>Only one bid may be made by or on behalf of the vendor. When the vendor&rsquo;s bid is made, the auctioneer must state that it is a vendor&rsquo;s bid</p></blockquote><h3>Auctioneer licence accreditation</h3><p>The law prohibits a real estate or stock and station agent from conducting property auctions unless the licensed agent is accredited to act as an auctioneer.</p><p>The Secretary may accredit a licensed agent if satisfied that the person holds the appropriate qualifications to conduct auctions in accordance with the Qualifications Order issued by the Minister.</p><p>An agent who holds a real estate agent licence or stock and station agent licence (Class 1 or Class 2) may apply for accreditation, if they can demonstrate satisfactory completion of at least 3 prescribed units of the Certificate IV in Real Estate Practice (CPP41419).</p><p>A licensee is otherwise qualified if they were accredited in the 12 months prior to their new application for accreditation. You can find more information about the qualifications required for auctioneer accreditation on the <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/licensing-certification-and-qualification/Licence-types-and-classes/auctioneer-accreditation#qualifications">auctioneer accreditation</a> page.</p><p>To apply for auctioneer accreditation, visit the <a href="https://www.service.nsw.gov.au/transaction/apply-accreditation-auctioneer" title="Service NSW website">Service NSW website</a>. For further inquiries, contact the Licensing Unit of NSW Fair Trading on 9619 8799.</p><h3>Auction conditions</h3><p>Auctions of land or livestock must be conducted in accordance with certain conditions which are set out in the&nbsp;&nbsp;Regulation.</p><h3>Auctions of residential property or rural land</h3><p>The following conditions apply:</p><p>1. The vendor&rsquo;s reserve price must be given in writing to the auctioneer before the auction commences.</p><p>2. A bid for the vendor cannot be made unless the auctioneer has, before the commencement of the auction, announced clearly and precisely that a bid may be made on behalf of the vendor by the auctioneer.</p><p>3. The highest bidder is the purchaser, subject to any reserve price.</p><p>4. In the event of a disputed bid, the auctioneer is the sole arbiter and the auctioneer&rsquo;s decision is final.</p><p>5. The auctioneer may refuse to accept any bid that, in the auctioneer&rsquo;s opinion, is not in the best interests of the vendor.</p><p>6. A bidder is taken to be a principal&nbsp;&nbsp;unless, before bidding, the bidder has given to the auctioneer a copy of a written authority to bid for or on behalf of another person.</p><p>7. A bid cannot be made or accepted after the fall of the hammer.</p><p>8. As soon as practicable after the fall of the hammer the purchaser is to sign the agreement (if any) for sale.</p><p>9. All bidders must be registered in the Bidders Record and display an identifying number when making a bid.</p><p>10. One bid only may be made on behalf of the vendor by the auctioneer on behalf of the vendor.</p><p>11. When making a bid on behalf of the vendor, the auctioneer must clearly state that the bid was made on behalf of the vendor.</p><p>12. Bidding by a co-owner or executor must be identified in the auction conditions.</p><h3>Auctions of livestock</h3><p>The following conditions apply:</p><p>1. The vendor&rsquo;s reserve price must be given in writing to the auctioneer before the auction commences.</p><p>2. A bid for the vendor cannot be made unless the auctioneer has, before the commencement of the auction, announced clearly and precisely the number of bids that may be made by or on behalf of the vendor.</p><p>3. The highest bidder is the purchaser, subject to any reserve price.</p><p>4. In the event of a disputed bid, the auctioneer is the sole arbitrator and the auctioneer's decision is final.</p><p>5. The auctioneer may refuse to accept any bid that, in the auctioneer's opinion, is not in the best interests of the vendor.</p><p>6. A bidder is taken to be a principal&nbsp;&nbsp;unless, before bidding, the bidder has given to the auctioneer a copy of a written authority to bid for or on behalf of another person.</p><p>7. A bid cannot be made or accepted after the fall of the hammer.</p><p>8. As soon as practicable after the fall of the hammer the purchaser is to sign the agreement (if any) for sale.</p><p>9. The purchaser of livestock must pay the stock and station agent who conducted the auction or the vendor the full amount of the purchase price:</p><ul><li>(a) if that amount can reasonably be determined immediately after the fall of the hammer-before the close of the next business day following the auction or</li><li>(b) if that amount cannot reasonably be determined immediately after the fall of the hammer-before the close of the next business day following determination of that amount, unless some other time for payment is specified in a written agreement between the purchaser and the agent or the purchaser and the vendor made before the fall of the hammer.</li></ul><p>The rules of conduct under the Regulation require agents and assistant agents who suspect that livestock may have been unlawfully obtained to inform the police of the cause of their suspicion as soon as reasonably practicable. Their suspicions could be raised at an auction for the sale of livestock or at any other time.</p><h3>Notification of auction conditions</h3><p>The auction conditions must be clearly and legibly written or printed in English on a notice exhibited in a conspicuous position so that they may be inspected before and during the auction.</p><p>It is important for agents to ensure that they fully comply with the requirements.</p><p>There must be sufficient notices available to allow all persons attending the auction to read the notice of conditions.</p><p>The notice must be displayed in the area where the auction is being conducted. For example, if an on-site auction is being conducted in front of a house, it is not sufficient to display the conditions only inside the house.</p><p>NSW Fair Trading inspectors can issue on-the-spot penalties for failure to correctly display the auction conditions.</p><h3>Mixed auctions</h3><p>An auction may involve the sale of multiple lots, with some lots subject to different conditions. This may occur, for example, where rural properties and livestock are being auctioned as separate lots.</p><p>In these circumstances, both sets of conditions may be displayed.</p><p>Alternatively, the conditions applicable to the majority of the lots on offer can be displayed. Before auctioning a lot to which different conditions apply, the auctioneer must announce the differences clearly and precisely.</p><h3>Other auction notices</h3><p>The legislation requires that notice be given about certain other requirements in relation to auctions:</p><ul type="disc"><li>the penalties for collusive practices and dummy bidding</li><li>the requirements applicable to successful bidders.</li></ul><p>As with the auction conditions, these notices must be written clearly in English and displayed in a conspicuous position where they may be viewed before and during the auction by any person in attendance.</p><p>These notices can be separate or may be combined with the notice of auction conditions. The required wording of these notices is set out below.</p><h2>Penalty for collusive practices</h2><p>It is an offence under the Act for a person to do any of the following as a result of a collusive practice, or to induce or attempt to induce another person by a collusive practice to do any of the following:</p><ul><li>(a) to abstain from bidding</li><li>(b) to bid to a limited extent only, or</li><li>(c) to do any other act or thing that might prevent free and open competition.</li></ul><p>Severe penalties may be imposed on persons convicted of collusive practices.</p><h2>Disclosure of vendor bids</h2><p>If residential property or rural land is passed in at an auction and the last bid was a vendor bid, an agent must not indicate the amount of that bid in any statement made in the course of marketing the property unless the statement clearly indicates that the bid was a vendor bid.</p><p>If a property is not sold at an auction, any vendor bid, and the highest bid accepted, at the auction must be recorded in the Bidder&rsquo;s Record.</p>
+</div>
+
+            <!-- Asset Contents End -->
+            <!-- noindex -->
+            
+            <div class="copyright" style="display:none;">Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International License. To view a copy of this licence, visit: https://creativecommons.org/licenses/by/4.0</div>
+            
+                                    <div class="c-pagination c-pagination--page">
+                <div class="c-pagination__inner">
+                    <div class="c-pagination__btn c-pagination__btn--prev">
+                        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/pre-purchase-inspection-reports" class="c-pagination__btn-link">Prev</a>
+                        <span class="c-pagination__btn-title">Pre-purchase inspection reports</span>
+                    </div>
+                    <div class="c-pagination__btn c-pagination__btn--next">
+                        <a href="https://www.fairtrading.nsw.gov.au/housing-and-property/property-professionals/working-as-a-property-agent/discipline" class="c-pagination__btn-link">Next</a>
+                        <span class="c-pagination__btn-title">Disciplinary action</span>
+                    </div>
+                </div>
+            </div>
+                                    
+        </div>
+        
+    </div>
+</div>
+
+<!-- Paint Layout - DFSI Fair Trading - Default End -->
+
+<!-- endnoindex --><div id="script_1097196">
+<style>
+    .c-accordion .c-accordion__item.btn-container { 
+        position: relative;
+    }
+    .c-accordion .c-accordion__item.btn-container .btn-full-view {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: transparent;
+    }
+</style>
+</div>
+                
+                <!-- Design Body End -->
+                        
+                <!-- noindex -->
+            </main>
+            
+            <footer class="footer" role="contentinfo">
+                <div class="p-footer__wrapper">
+                    <div class="o-container">
+                        <div class="p-footer__inner">
+                            <!-- Design Nester - Footer Content Start --><nav class="p-bottom-links">
+    <ul class="p-bottom-links__list">
+        <li class="p-bottom-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/site-map" class="p-bottom-links__link">Site map</a>
+</li><li class="p-bottom-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/privacy" class="p-bottom-links__link">Privacy</a>
+</li><li class="p-bottom-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/accessibility" class="p-bottom-links__link">Accessibility</a>
+</li><li class="p-bottom-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/disclaimer" class="p-bottom-links__link">Disclaimer</a>
+</li><li class="p-bottom-links__item">
+    <a href="https://www.fairtrading.nsw.gov.au/copyright" class="p-bottom-links__link">Copyright</a>
+</li><li class="p-bottom-links__item">
+    <a href="http://nsw.gov.au" class="p-bottom-links__link">NSW.gov.au</a>
+</li>
+    </ul>
+</nav><nav class="c-social-links">
+    
+    
+    
+    
+    <a href="https://www.facebook.com/FairTradingNSW/" class="c-social-links__link c-social-links__link--facebook" target="_blank">
+        <span class="visuallyhidden">Facebook</span>
+    </a>
+    
+    
+    
+    <a href="https://www.youtube.com/user/NSWOFT" class="c-social-links__link c-social-links__link--youtube" target="_blank">
+        <span class="visuallyhidden">Youtube</span>
+    </a>
+    
+</nav>
+<!-- Design Nester - Footer Content End -->                        </div>
+                    </div>
+                </div>
+            </footer>
+            
+        </div><!-- .page-content -->
+        
+    </div><!-- .page-wrapper -->
+    
+    <!-- Design Nester - Footer JS Start -->
+
+<div id="footer-js" style="display: none!important;">
+
+    
+    
+    <script src="https://www.fairtrading.nsw.gov.au/__data/assets/git_bridge/0003/334830/matrix-files/js/plugins.min.js"></script>    <!--plugins.min.js-->
+    <script src="https://www.fairtrading.nsw.gov.au/__data/assets/js_file_folder/0005/334814/lib.js?v=0.1.2"></script>    <!--lib.js-->
+    <script src="https://www.fairtrading.nsw.gov.au/__data/assets/git_bridge/0003/334830/matrix-files/js/global.js"></script>    <!--global.js-->
+    <!--<script src="https://www.fairtrading.nsw.gov.au/__data/assets/js_file_folder/0006/334815/custom?v=0.1.3"></script>    custom.js-->
+    <script src="https://www.fairtrading.nsw.gov.au/_design/js/custom-chatbot.js"></script> <!-- custom-chatbot.js -->
+    <script src="https://f1-oc.readspeaker.com/script/4696/ReadSpeaker.js?pids=embhl" type="text/javascript"></script>    <!--readspeaker.js-->
+    <style>.rsbtn {z-index: auto;}</style>    <!--readspeaker style fix-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>    <!--clipboard.js v2.0.0-->
+    
+    
+    <!--fix: expand current context in second nav in RHS on page load-->
+    <script>
+        if ($(".c-side-nav").length > 0) {
+            $(".second-nav-l1__item").each(function() {
+                if ("334848 334857 344925 366994 367038".indexOf($(this).data("assetid")) > 0) {
+                    $(this).addClass("is-current is-active");
+                };
+            });
+        }
+    </script>
+    
+    <!--feedback widget-->
+    <script type="text/javascript" src="https://www.onegov.nsw.gov.au/CDN/feedbackassist/feedbackassist.v1.min.js"></script>
+    <script>const FBW = 0;</script>
+    <script>if(FBW == 1) {caBoootstrap.init("https://feedbackassist.onegov.nsw.gov.au/feedbackassist");}</script>
+    <style>
+        .fm-feedback-button{
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            min-width: 0;
+        }
+        /* * {visibility: visible;} was causing these to show always */
+        .fm-feedback-buttons.fm-close-mobile-feedback-buttons {
+            display: none;
+        }
+        /* enabled permanently visible browser scrollbar in IE as widget was disappearing behind the bar */
+        @-ms-viewport{
+            width:auto!important
+        }
+    </style>
+    
+    <!--consultation js file-->
+    <script src="https://www.fairtrading.nsw.gov.au/__data/assets/js_file/0007/346399/consultation.js"></script>
+    
+    <!--Fix for ticket sdnsw-2242-->
+    <script>
+        var download = $(document).find('.c-tools__link--download');
+        if (download.length >= 1) {
+            var page_content= $(".o-content").children();
+            page_content.each(function() {
+                if (!$(this).hasClass('print-no') && !$(this).hasClass('rsbtn') && !$(this).hasClass('c-side-nav')) {
+                    $(this).addClass('print-only');
+                }
+            });
+        }
+    </script>
+    
+   
+<!--Fix for ticket sdnsw-3270 and sdnsw-3580-->
+
+    <!--Fix for ticket sdnsw-3270-->
+    <script>
+    if ($( window ).width() <= 960) {
+        $( "#search-box" ).click(function(e) {
+            
+              $('body').addClass("is-nav-open");
+              setTimeout(function(){ $('body').addClass("is-nav-open"); }, 400);
+              setTimeout(function(){ $('body').addClass("is-nav-open"); }, 450);
+              setTimeout(function(){ $('body').addClass("is-nav-open"); }, 500);
+              setTimeout(function(){ $('body').addClass("is-nav-open"); }, 550);
+              setTimeout(function(){ $('body').addClass("is-nav-open"); }, 600);
+              setTimeout(function(){ $('body').addClass("is-nav-open"); }, 650);
+              setTimeout(function(){ $('body').addClass("is-nav-open"); }, 700);
+        });
+    }
+    </script>
+
+    
+    <!-- Hotjar Tracking Code for https://www.fairtrading.nsw.gov.au -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:764358,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+    
+</div><!--#footer-js-->
+
+<!-- Design Nester - Footer JS End -->    
+    <!-- endnoindex -->
+    
+
+
+</body>
+</html>
